@@ -6,7 +6,7 @@ Implémenter une régression linéaire à une variable.
 - Utiliser l'algorithme de descente de gradient pour entraîner le modèle.
 - Visualiser les données et les résultats pour mieux comprendre les performances du modèle.
 ## Fonctionnalités
-Programme de prédiction : Ce programme prend en entrée un kilométrage et retourne le prix estimé de la voiture.
+Programme de prédiction : Ce programme prend en entrée un kilométrage et retourne le prix estimé de la voiture.  
 Programme d'entraînement : Ce programme lit un fichier de données, effectue une régression linéaire et enregistre les paramètres appris pour une utilisation ultérieure dans le programme de prédiction.
 ## Formules Utilisées
 Les formules suivantes sont utilisées pour entraîner le modèle de régression linéaire :
@@ -18,4 +18,6 @@ Les formules suivantes sont utilisées pour entraîner le modèle de régression
 
 ## Bonus
 La visualisation des données et de la ligne de régression.  
-Un programme pour calculer la précision de l'algorithme.
+![image](https://github.com/pineauofficial/ft_linear_regression/assets/117824819/9769e9f1-4391-4be3-a1cf-a03598b82fbb)  
+Un programme pour calculer la précision de l'algorithme.  
+![image](https://github.com/pineauofficial/ft_linear_regression/assets/117824819/7692aae7-a38c-450a-8272-6a80e133d163)  
